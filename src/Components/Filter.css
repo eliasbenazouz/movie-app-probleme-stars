@@ -1,0 +1,40 @@
+.Filter {
+    color: white;
+    margin-top: 30px;
+}
+
+.star{
+    cursor: pointer;
+    transition: color 200ms;
+}
+
+.Filter__search{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: sticky;
+    top: 10px;
+    z-index: 10;
+}
+
+.Filter__searchText{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    border-radius: 999px;    
+    margin: 0 20px 10px 20px;
+    padding: 10px;
+    height: 30px;
+}
+
+.Filter__searchText > input{
+    border: none;
+    outline-width: 0;
+}
+
+.Filter__searchText__img{
+    color: black;
+    font-size: 25px;
+}

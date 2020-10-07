@@ -1,0 +1,12 @@
+.App {
+  min-height: 100vh;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background: url("/background.jpg") center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin:auto;
+  padding:0;
+}

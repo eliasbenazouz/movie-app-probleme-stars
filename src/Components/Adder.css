@@ -1,0 +1,21 @@
+.Adder{
+    margin: 40px 0;
+}
+
+.AddedMovies{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.starRadio {
+    display: none;
+}
+
+.star{
+    cursor: pointer;
+    transition: color 200ms;
+}
+
+
+

@@ -1,0 +1,7 @@
+.movieList__container {
+    margin-top: 50px;
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+
+}
